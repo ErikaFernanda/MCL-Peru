@@ -1,0 +1,400 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202004 will be lost/reset.
+# Last config file used to build this data file was /home/santaritaedu/tmp/awstats/ssl/awstats.santarita.edu.pe.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2700                
+POS_VISITOR 8424                
+POS_DAY 10468               
+POS_DOMAIN 3505                
+POS_LOGIN 3962                
+POS_ROBOT 4117                
+POS_WORMS 4580                
+POS_EMAILSENDER 4711                
+POS_EMAILRECEIVER 4854                
+POS_SESSION 11007               
+POS_SIDER 11154               
+POS_FILETYPES 4989                
+POS_DOWNLOADS 5127                
+POS_OS 5197                
+POS_BROWSER 5363                
+POS_SCREENSIZE 5724                
+POS_UNKNOWNREFERER 5798                
+POS_UNKNOWNREFERERBROWSER 6090                
+POS_ORIGIN 6265                
+POS_SEREFERRALS 6397                
+POS_PAGEREFS 6560                
+POS_SEARCHWORDS 6708                
+POS_KEYWORDS 6860                
+POS_MISC 2364                
+POS_ERRORS 6919                
+POS_CLUSTER 3818                
+POS_SIDER_404 7037                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20200501000930 64 21472 27205824509125
+FirstTime 20200401003222
+LastTime 20200428214438
+LastUpdate 20200501071516 64 0 63 0 0
+TotalVisits 68                  
+TotalUnique 42                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 54                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+WindowsMediaPlayerSupport 0 0 0
+JavaEnabled 0 0 0
+FlashSupport 0 0 0
+TotalMisc 0 0 0
+DirectorSupport 0 0 0
+QuickTimeSupport 0 0 0
+AddToFavourites 0 0 0
+RealPlayerSupport 0 0 0
+PDFSupport 0 0 0
+JavascriptDisabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 8 8 253428 115 125 2751167
+1 3 3 72408 120 127 742368
+2 6 6 226274 107 121 13770355
+3 2 2 36204 112 120 5097547
+4 0 0 0 114 121 240876
+5 2 2 36204 127 133 2701099
+6 2 2 72408 115 118 5169372
+7 1 1 0 114 115 144867
+8 1 1 12453 114 118 2075835
+9 3 3 36204 101 114 2322940
+10 2 2 36204 113 118 2319617
+11 18 30 23110663 116 123 4559136
+12 0 0 0 111 113 107526
+13 2 2 36204 105 107 257711
+14 2 3 157666 121 123 5686724
+15 2 2 36204 118 127 11169934
+16 1 4 8037995 114 121 2848966
+17 2 2 40735 114 120 4551196
+18 3 3 36204 100 106 3135749
+19 2 3 37318 106 107 69093
+20 1 1 0 102 107 2265307
+21 3 3 108612 112 121 5048459
+22 3 3 108612 107 115 7474337
+23 6 6 147576 140 147 5201560
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 17
+us 23 25 3547043
+de 21 21 36204
+cn 13 13 446901
+ru 7 8 3553413
+br 2 5 478682
+cl 1 1 36204
+ie 1 1 40735
+eg 1 3 5139534
+mx 1 1 36204
+th 1 3 4479861
+nl 1 1 36204
+by 1 1 36204
+id 1 1 40735
+in 1 3 2698464
+pe 0 3 8037995
+ke 0 1 1794058
+vn 0 1 2201135
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 31 45403192 20200430181238 0
+bingbot/ 29 40511619 20200430213256 0
+facebookexternalhit/ 28 1013712 20200429182904 0
+bot[\s_+:,\.\;\/\\-] 28 1031836 20200430164305 0
+msnbot/ 10 608506 20200403014640 0
+SemrushBot/ 4 144816 20200425233914 0
+[\s_+:,\.\;\/\\-]bot 3 108612 20200429025233 0
+no_user_agent 1 0 20200412140714 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+txt 1 1114 0 0
+html 74 1876969 0 0
+jpg 16 30758733 0 0
+Unknown 1 2760 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/license.txt 1 0 1114
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 8
+linuxandroid 3 3
+macosx11 9 9
+winxp 25 13
+win10 9 8
+winvista 1 1
+win7 23 20
+linux 10 9
+Unknown 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 17
+chrome34.0.1847.137 9 9
+msie6.0 22 10
+chrome80.0.3987.163 3 0
+mozilla 5 5
+firefox57.0 3 3
+chrome66.0.3359.117 2 2
+Unknown 6 6
+msie7.0 2 2
+chrome41.0.2225.0 1 1
+firefox71.0 1 1
+android 3 3
+chrome80.0.3987.149 1 0
+firefox47.0 11 11
+chrome36.0.1985.67 1 1
+firefox62.0 1 0
+chrome40.0.2214.85 20 20
+netscape5.0 1 1
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 4
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20200404021939
+Mozilla/5.0 20200419082234
+Go-http-client/1.1 20200425021223
+https://gdnplus.com:Gather_Analyze_Provide. 20200407155342
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 2
+https://gdnplus.com:Gather_Analyze_Provide. 20200407155342
+Go-http-client/1.1 20200425021223
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 75 88
+From1 0 0
+From2 0 4
+From3 0 0
+From4 0 0
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 1
+www_google_com 0 4
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 3
+400 1944 565866
+404 768 323180
+401 15 402
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 38
+/ckeditor/plugins/kcfinder/upload.php 1 -
+/1/license.txt 1 -
+/admin/editor/kcfinder/upload.php 1 -
+/robots.txt 71 -
+/plugins/kcfinder/upload.php 1 -
+/.well-known/security.txt 8 -
+/tmp/license.txt 1 -
+/js/kcfinder/upload.php 1 -
+/site/license.txt 1 -
+/temp/ 1 -
+/test/license.txt 1 -
+/assets/ckeditor/kcfinder/upload.php 1 -
+/console 1 -
+/vendor/kcfinder/upload.php 1 -
+/atutor/index.php 1 -
+/asset/kcfinder/upload.php 1 -
+/.env 1 -
+/sitemap.xml 9 -
+/new/license.txt 1 -
+/assets/kcfinder/upload.php 1 -
+/phpMyAdmin/scripts/setup.php 1 -
+/phpmyadmin/scripts/setup.php 1 -
+/login.action 1 -
+/assets/admin/js/kcfinder/upload.php 1 -
+/tiny_mce/plugins/kcfinder/upload.php 1 -
+/includes/js/kcfinder/upload.php 1 -
+/ckeditor/kcfinder/upload.php 1 -
+/panel/kcfinder/upload.php 1 -
+/themes/admin/js/kcfinder/upload.php 1 -
+/admin/ckeditor/kcfinder/upload.php 1 -
+/cgi-bin/test-cgi 1 -
+/lib/kcfinder/upload.php 1 -
+/admin/js/kcfinder/upload.php 1 -
+/~wdplanc/paypal 646 -
+/admin/kcfinder/upload.php 1 -
+/kcfinder/upload.php 1 -
+/horde/imp/test.php 1 -
+/assets/js/kcfinder/upload.php 1 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 54
+138.246.253.15 15 15 0 20200425010615
+60.191.38.77 9 9 325836 20200408210616
+138.246.253.5 5 5 0 20200403130532
+71.6.146.130 3 3 108612 20200428112032
+129.213.34.190 3 3 75168 20200420231901
+185.163.109.66 3 3 108612 20200422234616
+185.181.102.18 2 2 72408 20200428214438
+138.197.152.122 1 1 0 20200424112213
+34.222.36.247 1 1 36204 20200402220136
+170.130.187.34 1 1 36204 20200407155342
+186.226.0.22 1 1 36204 20200409114328
+18.237.219.201 1 1 36204 20200425021223
+184.154.74.66 1 1 36204 20200423022135
+178.126.61.147 1 1 36204 20200409114305
+157.245.5.195 1 1 36204 20200404021927
+157.245.1.169 1 1 40735 20200404021939
+134.122.55.155 1 1 36204 20200402064929
+167.71.177.133 1 1 36204 20200404011708
+114.119.166.238 1 1 36204 20200402222949
+186.79.30.20 1 1 36204 20200409114328
+104.140.188.10 1 1 36204 20200407035519
+138.197.144.119 1 1 0 20200424112214
+114.119.162.222 1 1 36204 20200408114230
+92.101.54.0 1 1 36204 20200409114328
+42.157.195.85 1 1 12453 20200419082234
+190.235.15.2 0 3 8037995 
+70.32.73.128 0 1 1114 
+179.225.221.82 0 1 157666 
+45.184.251.247 0 1 193185 
+156.223.37.62 0 1 2729616 
+91.122.18.109 0 1 3299985 
+180.183.98.252 0 1 2498340 
+198.143.155.138 1 1 36204 20200405184715
+110.164.157.162 1 1 36204 20200409114329
+27.255.226.134 1 2 2505279 20200409114328
+114.119.164.8 1 1 36204 20200404112553
+45.77.134.191 1 1 36204 20200424195413
+195.201.85.120 1 1 36204 20200417131607
+174.138.53.217 1 1 36204 20200404005758
+107.185.244.63 1 2 2846243 20200409114328
+177.93.67.104 0 1 188784 
+177.87.9.17 1 1 36204 20200409114329
+179.107.159.143 0 1 59824 
+136.243.50.146 1 1 36204 20200403110151
+189.202.28.9 1 1 36204 20200409114329
+41.139.249.231 0 1 1794058 
+185.24.233.166 1 1 40735 20200425171941
+170.130.187.54 1 1 36204 20200407064322
+197.52.64.33 1 2 2409918 20200409114328
+102.68.79.5 1 1 40735 20200404111055
+183.89.95.64 0 1 1945317 
+165.227.75.124 1 1 40723 20200404020631
+14.239.205.123 0 1 2201135 
+94.102.49.193 1 1 36204 20200409053251
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 23
+20200401 5 5 72408 4
+20200402 4 4 108612 4
+20200403 2 2 36204 2
+20200404 7 7 267009 7
+20200405 8 9 338686 5
+20200406 1 1 0 1
+20200407 5 5 144816 5
+20200408 3 3 108612 2
+20200409 11 26 30999311 11
+20200412 1 1 36204 1
+20200413 1 1 36204 1
+20200414 1 1 36204 1
+20200415 2 2 0 2
+20200416 2 2 0 2
+20200417 2 2 36204 2
+20200418 1 1 36204 1
+20200419 1 1 12453 1
+20200420 3 3 75168 1
+20200422 2 2 36204 2
+20200423 3 3 72408 3
+20200424 5 6 37318 5
+20200425 3 3 76939 3
+20200428 2 2 72408 2
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 1
+0s-30s 68
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 74 1876969 68 68
+/login 1 2760 0 0
+END_SIDER

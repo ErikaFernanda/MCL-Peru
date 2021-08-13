@@ -1,0 +1,313 @@
+AWSTATS DATA FILE 7.6 (build 20161204)
+# If you remove this file, all statistics for date 201806 will be lost/reset.
+# Last config file used to build this data file was /home/santaritaedu/tmp/awstats/ssl/awstats.santarita.edu.pe.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2694                
+POS_VISITOR 6586                
+POS_DAY 7404                
+POS_DOMAIN 3241                
+POS_LOGIN 3513                
+POS_ROBOT 3668                
+POS_WORMS 3833                
+POS_EMAILSENDER 3964                
+POS_EMAILRECEIVER 4107                
+POS_SESSION 7867                
+POS_SIDER 8025                
+POS_FILETYPES 4242                
+POS_DOWNLOADS 4372                
+POS_OS 4420                
+POS_BROWSER 4569                
+POS_SCREENSIZE 4796                
+POS_UNKNOWNREFERER 4870                
+POS_UNKNOWNREFERERBROWSER 5121                
+POS_ORIGIN 5367                
+POS_SEREFERRALS 5499                
+POS_PAGEREFS 5643                
+POS_SEARCHWORDS 5791                
+POS_KEYWORDS 5943                
+POS_MISC 2358                
+POS_ERRORS 6002                
+POS_CLUSTER 3369                
+POS_SIDER_404 6101                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20180701063402 2 200 8998689775465
+FirstTime 20180601200753
+LastTime 20180630212458
+LastUpdate 20180701071456 2 0 1 0 0
+TotalVisits 36                  
+TotalUnique 20                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 20                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+DirectorSupport 0 0 0
+JavascriptDisabled 0 0 0
+PDFSupport 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 5 5 4890 0 0 0
+1 3 3 1246 1 2 43005
+2 1 1 623 5 5 44858
+3 2 2 0 0 0 0
+4 1 1 0 1 1 0
+5 2 2 1246 3 3 43005
+6 1 1 1822 1 1 0
+7 0 0 0 0 0 0
+8 2 2 0 0 0 0
+9 0 0 0 0 0 0
+10 2 6 68863 2 6 0
+11 0 0 0 2 2 0
+12 1 1 623 1 1 0
+13 2 2 1246 0 0 0
+14 2 2 1246 0 0 0
+15 0 0 0 1 2 0
+16 1 1 623 1 1 42954
+17 3 3 1869 3 4 0
+18 1 1 623 2 2 40022
+19 1 1 0 1 2 0
+20 4 4 2492 2 3 0
+21 1 1 1822 2 2 35
+22 2 2 1246 1 1 40071
+23 4 4 1246 1 3 0
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 5
+us 20 20 13612
+de 8 8 0
+ch 7 7 6759
+ma 4 4 2492
+br 2 6 68863
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 1
+netcraft 3 1869 20180607024502 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 4
+jpg 3 41152 0 0
+css 1 1613 0 0
+woff 1 24276 0 0
+html 40 24685 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 0
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 7
+macosx 5 5
+macosx12 4 4
+winnt 8 8
+linux 1 1
+Unknown 9 9
+linuxandroid 6 2
+win7 12 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+chrome40.0.2214.85 8 8
+chrome67.0.3396.87 6 2
+chrome61.0.3163.100 9 9
+chrome34.0.1847.137 1 1
+Unknown 9 9
+chrome66.0.3359.181 8 8
+chrome66.0.3359.117 1 1
+chrome67.0.3396.79 3 3
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 8
+bv 20180607143547
+bm 20180610205945
+dc 20180628005330
+ao 20180609200758
+qj 20180627060410
+python-requests/2.18.3 20180609234451
+zs 20180621140840
+wl 20180614135857
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 8
+dc 20180628005330
+ao 20180609200758
+qj 20180627060410
+bv 20180607143547
+bm 20180610205945
+wl 20180614135857
+python-requests/2.18.3 20180609234451
+zs 20180621140840
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 38 38
+From1 0 0
+From2 0 0
+From3 0 0
+From4 3 7
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 0
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 2
+401 17 252081
+404 18 0
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/g/00249794/ 1 -
+/g/01373218/ 1 -
+/g/00972166/ 1 -
+/cgi-bin/ 2 https://santarita.edu.pe/
+/~wdplanc/paypal 1 -
+/g/01294982/ 1 -
+/.well-known/assetlinks.json 3 -
+/robots.txt 8 -
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 20
+138.246.253.5 4 4 0 20180623082421
+13.57.233.99 4 4 4890 20180630212458
+138.246.253.19 4 4 0 20180621031108
+54.215.254.26 4 4 2492 20180610135446
+45.227.85.136 3 3 1869 20180611173104
+35.162.70.167 3 3 1869 20180618002532
+52.34.24.33 2 2 1246 20180615233259
+52.41.211.72 2 2 1246 20180618231849
+185.35.63.1 2 2 1246 20180621140840
+18.217.225.175 2 2 0 20180609234451
+179.240.177.106 2 6 68863 20180626104859
+185.35.63.171 1 1 623 20180610205945
+198.143.158.178 1 1 623 20180609015444
+185.35.63.238 1 1 1822 20180627060410
+66.240.192.138 1 1 623 20180604125221
+13.56.250.235 1 1 623 20180618051802
+45.227.85.158 1 1 623 20180604202935
+185.35.63.215 1 1 623 20180614135857
+185.35.63.81 1 1 1822 20180628005330
+185.35.63.144 1 1 623 20180607143547
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 21
+20180601 1 1 623 1
+20180604 3 3 1869 3
+20180605 1 1 0 1
+20180606 1 1 0 1
+20180607 2 2 1246 2
+20180609 4 4 1246 3
+20180610 2 2 1246 2
+20180611 3 3 1869 1
+20180613 2 2 1246 2
+20180614 1 1 623 1
+20180615 3 3 1246 3
+20180616 1 1 623 1
+20180618 3 3 1869 3
+20180621 3 3 623 3
+20180622 1 1 623 1
+20180623 3 3 0 2
+20180625 1 1 623 1
+20180626 2 6 68863 1
+20180627 1 1 1822 1
+20180628 2 2 3644 2
+20180630 1 1 1822 1
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+5mn-15mn 1
+0s-30s 35
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 40 24685 36 35
+/font-face/square-webfont.woff 1 24276 0 1
+END_SIDER

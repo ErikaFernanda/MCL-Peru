@@ -1,0 +1,335 @@
+AWSTATS DATA FILE 7.7 (build 20180105)
+# If you remove this file, all statistics for date 202108 will be lost/reset.
+# Last config file used to build this data file was /home/santaritaedu/tmp/awstats/ssl/awstats.santarita.edu.pe.conf.
+
+# Position (offset in bytes) in this file for beginning of each section for
+# direct I/O access. If you made changes somewhere in this file, you should
+# also remove completely the MAP section (AWStats will rewrite it at next
+# update).
+BEGIN_MAP 28
+POS_GENERAL 2021                
+POS_TIME 2703                
+POS_VISITOR 8399                
+POS_DAY 10012               
+POS_DOMAIN 3445                
+POS_LOGIN 3789                
+POS_ROBOT 3944                
+POS_WORMS 4382                
+POS_EMAILSENDER 4513                
+POS_EMAILRECEIVER 4656                
+POS_SESSION 10319               
+POS_SIDER 10476               
+POS_FILETYPES 4791                
+POS_DOWNLOADS 4987                
+POS_OS 5099                
+POS_BROWSER 5223                
+POS_SCREENSIZE 5432                
+POS_UNKNOWNREFERER 5506                
+POS_UNKNOWNREFERERBROWSER 6283                
+POS_ORIGIN 6970                
+POS_SEREFERRALS 7104                
+POS_PAGEREFS 7248                
+POS_SEARCHWORDS 7426                
+POS_KEYWORDS 7578                
+POS_MISC 2367                
+POS_ERRORS 7637                
+POS_CLUSTER 3645                
+POS_SIDER_404 7771                
+END_MAP
+
+# LastLine    = Date of last record processed - Last record line number in last log - Last record offset in last log - Last record signature value
+# FirstTime   = Date of first visit for history file
+# LastTime    = Date of last visit for history file
+# LastUpdate  = Date of last update - Nb of parsed records - Nb of parsed old records - Nb of parsed new records - Nb of parsed corrupted - Nb of parsed dropped
+# TotalVisits = Number of visits
+# TotalUnique = Number of unique visitors
+# MonthHostsKnown   = Number of hosts known
+# MonthHostsUnKnown = Number of hosts unknown
+BEGIN_GENERAL 8
+LastLine 20210812070230 103 32667 12974826507690
+FirstTime 20210801021744
+LastTime 20210811190635
+LastUpdate 20210812070733 103 0 103 0 0
+TotalVisits 40                  
+TotalUnique 39                  
+MonthHostsKnown 0                   
+MonthHostsUnknown 39                  
+END_GENERAL
+
+# Misc ID - Pages - Hits - Bandwidth
+BEGIN_MISC 10
+RealPlayerSupport 0 0 0
+FlashSupport 0 0 0
+AddToFavourites 0 0 0
+JavascriptDisabled 0 0 0
+QuickTimeSupport 0 0 0
+JavaEnabled 0 0 0
+PDFSupport 0 0 0
+DirectorSupport 0 0 0
+TotalMisc 0 0 0
+WindowsMediaPlayerSupport 0 0 0
+END_MISC
+
+# Hour - Pages - Hits - Bandwidth - Not viewed Pages - Not viewed Hits - Not viewed Bandwidth
+BEGIN_TIME 24
+0 2 2 28464 46 51 164896
+1 1 1 28464 41 43 76044
+2 9 9 256176 38 47 7028080
+3 3 3 56928 45 49 196186
+4 0 0 0 42 48 189888
+5 3 3 98278 57 61 394871
+6 3 3 56928 38 40 72642
+7 0 0 0 52 55 335256
+8 0 0 0 36 41 2963567
+9 5 27 23280881 32 34 119376
+10 0 0 0 43 47 2519598
+11 1 1 41350 46 47 3430802
+12 3 3 69802 44 45 103430
+13 2 2 56928 33 37 177469
+14 2 24 23252417 41 43 76044
+15 1 1 28464 42 44 169865
+16 1 1 28464 44 48 331714
+17 10 55 46983654 45 66 10958033
+18 3 25 23280881 48 52 131168
+19 2 2 28464 47 56 333477
+20 3 3 56928 35 40 4872466
+21 2 2 28464 51 58 7885179
+22 0 0 0 44 47 2819001
+23 0 0 0 39 42 2597515
+END_TIME
+
+# Domain - Pages - Hits - Bandwidth
+# The 25 first Pages must be first (order not required for others)
+BEGIN_DOMAIN 9
+us 35 35 807174
+pe 4 27 23632959
+cl 4 48 46504834
+gr 4 4 126742
+br 3 25 23280881
+mx 2 24 23252417
+cn 2 2 0
+gb 1 1 28464
+ca 1 1 28464
+END_DOMAIN
+
+# Cluster ID - Pages - Hits - Bandwidth
+BEGIN_CLUSTER 0
+END_CLUSTER
+
+# Login - Pages - Hits - Bandwidth - Last visit
+# The 10 first Pages must be first (order not required for others)
+BEGIN_LOGIN 0
+END_LOGIN
+
+# Robot ID - Hits - Bandwidth - Last visit - Hits on robots.txt
+# The 25 first Hits must be first (order not required for others)
+BEGIN_ROBOT 8
+AhrefsBot/ 45 1280880 20210812021255 0
+bingbot/ 30 33395695 20210811234005 0
+facebookexternalhit/ 28 796992 20210812053630 0
+no_user_agent 5 168080 20210809151836 0
+unknown 3 78 20210812055938 3
+bot[\s_+:,\.\;\/\\-] 3 352078 20210811041130 0
+baidu 2 0 20210811124420 0
+SemrushBot/ 2 56928 20210810191245 0
+END_ROBOT
+
+# Worm ID - Hits - Bandwidth - Last visit
+# The 5 first Hits must be first (order not required for others)
+BEGIN_WORMS 0
+END_WORMS
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first Hits must be first (order not required for others)
+BEGIN_EMAILSENDER 0
+END_EMAILSENDER
+
+# EMail - Hits - Bandwidth - Last visit
+# The 20 first hits must be first (order not required for others)
+BEGIN_EMAILRECEIVER 0
+END_EMAILRECEIVER
+
+# Files type - Hits - Bandwidth - Bandwidth without compression - Bandwidth after compression
+BEGIN_FILETYPES 7
+js 25 947440 0 0
+jpg 60 112815360 0 0
+css 10 310310 0 0
+png 15 1675375 0 0
+docx 1 323614 0 0
+woff2 5 371280 0 0
+html 51 1218556 0 0
+END_FILETYPES
+
+# Downloads - Hits - Bandwidth
+BEGIN_DOWNLOADS 1
+/assets/XIII_MUESTRA_CIENTIFICA_LATINOAMERICANA.docx 2 0 647228
+END_DOWNLOADS
+
+# OS ID - Hits
+BEGIN_OS ID - Hits - Pages 5
+winxp 1 1
+Unknown 32 32
+linux 9 9
+win8.1 24 2
+win10 101 12
+END_OS
+
+# Browser ID - Hits - Pages
+BEGIN_BROWSER 8
+mozilla 5 5
+chrome66.0.3359.117 1 1
+chrome81.0.4044.129 1 1
+chrome92.0.4515.131 52 7
+Unknown 27 27
+chrome83.0.4103.97 8 8
+msie7.0 1 1
+chrome92.0.4515.107 72 6
+END_BROWSER
+
+# Screen size - Hits
+BEGIN_SCREENSIZE 0
+END_SCREENSIZE
+
+# Unknown referer OS - Last visit date
+BEGIN_UNKNOWNREFERER 7
+Go-http-client/1.1 20210811124419
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210811190635
+Go_http_package 20210802175347
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210811052825
+Mozilla/5.0_(compatible;_NetcraftSurveyAgent/1.0;__info@netcraft.com) 20210805133009
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210810032754
+scalaj-http/2.4.2 20210811190631
+END_UNKNOWNREFERER
+
+# Unknown referer Browser - Last visit date
+BEGIN_UNKNOWNREFERERBROWSER 6
+Buck/2.2;_(_https://app.hypefactors.com/media-monitoring/about.html) 20210811190635
+Go-http-client/1.1 20210811124419
+Expanse,_a_Palo_Alto_Networks_company,_searches_across_the_global_IPv4_space_multiple_times_per_day_to_identify_customers&#39;_presences_on_the_Internet._If_you_would_like_to_be_excluded_from_our_scans,_please_send_IP_addresses/domains_to:_scaninfo@paloaltonetworks.com 20210811052825
+Go_http_package 20210802175347
+NetSystemsResearch_studies_the_availability_of_various_services_across_the_internet._Our_website_is_netsystemsresearch.com 20210810032754
+scalaj-http/2.4.2 20210811190631
+END_UNKNOWNREFERERBROWSER
+
+# Origin - Pages - Hits 
+BEGIN_ORIGIN 6
+From0 50 50
+From1 0 0
+From2 0 0
+From3 1 1
+From4 5 116
+From5 0 0
+END_ORIGIN
+
+# Search engine referers ID - Pages - Hits
+BEGIN_SEREFERRALS 0
+END_SEREFERRALS
+
+# External page referers - Pages - Hits
+# The 25 first Pages must be first (order not required for others)
+BEGIN_PAGEREFS 1
+http://205.251.153.191:80 1 1
+END_PAGEREFS
+
+# Search keyphrases - Number of search
+# The 10 first number of search must be first (order not required for others)
+BEGIN_SEARCHWORDS 0
+END_SEARCHWORDS
+
+# Search keywords - Number of search
+# The 25 first number of search must be first (order not required for others)
+BEGIN_KEYWORDS 0
+END_KEYWORDS
+
+# Errors - Hits - Bandwidth
+BEGIN_ERRORS 4
+400 672 762048
+404 299 337870
+206 18 10794337
+401 34 1581
+END_ERRORS
+
+# URL with 404 errors - Hits - Last URL referrer
+BEGIN_SIDER_404 8
+/cgi/Resources/List 1 https://santarita.edu.pe/cgi/Resources/List
+/citrix/cgi/Resources/List 1 https://santarita.edu.pe/citrix/cgi/Resources/List
+/.env 1 -
+/~wdplanc/paypal 224 -
+/sitemap.xml 1 -
+/robots.txt 66 -
+/assets/xiii_muestra_cientifica_latinoamericana.docx 4 -
+/wp-includes/css/wp-config.php 1 anonymousfox.co
+END_SIDER_404
+
+# Host - Pages - Hits - Bandwidth - Last visit date - [Start date of last visit] - [Last page of last visit]
+# [Start date of last visit] and [Last page of last visit] are saved only if session is not finished
+# The 25 first Hits must be first (order not required for others)
+BEGIN_VISITOR 39
+190.236.26.93 4 27 23632959 20210809172119
+18.207.247.163 4 4 56928 20210810175703
+177.124.18.233 3 25 23280881 20210806174520
+35.172.136.184 2 2 28464 20210808030735
+35.175.200.56 2 2 28464 20210811190635
+181.226.209.72 2 24 23252417 20210802143315
+54.172.100.229 2 2 28464 20210806094116
+187.192.248.137 2 24 23252417 20210803180801
+54.88.149.26 2 2 28464 20210804210054
+34.239.155.100 2 2 28464 20210809003531
+34.203.206.220 2 2 28464 20210807065155
+207.248.223.13 2 24 23252417 20210802094158
+34.220.239.243 1 1 28464 20210804023847
+92.118.160.17 1 1 28464 20210810032754
+34.217.50.60 1 1 28464 20210801021744
+144.86.173.129 1 1 28464 20210809155341
+34.218.80.245 1 1 28464 20210805022122
+34.213.29.45 1 1 28464 20210802023108
+92.118.160.1 1 1 28464 20210802202221
+64.225.56.254 1 1 41338 20210805123717
+144.86.173.27 1 1 28464 20210803050321
+144.86.173.136 1 1 41350 20210804051127
+174.138.52.43 1 1 28464 20210805131853
+144.86.173.135 1 1 28464 20210805183354
+143.198.8.43 1 1 28464 20210805123940
+92.118.160.57 1 1 41350 20210802175347
+92.118.160.9 1 1 28464 20210807021833
+34.211.146.102 1 1 28464 20210802022157
+142.93.6.121 1 1 28464 20210802162349
+42.236.10.116 1 1 0 20210811124419
+34.221.200.83 1 1 28464 20210801021926
+23.88.54.121 1 1 28464 20210810065824
+64.225.19.245 1 1 28464 20210805133009
+144.86.173.4 1 1 28464 20210811052825
+193.118.55.146 1 1 28464 20210807012740
+42.236.10.88 1 1 0 20210806093642
+143.198.12.17 1 1 41350 20210805111128
+54.200.59.219 1 1 28464 20210804023939
+34.208.205.169 1 1 28464 20210802022023
+END_VISITOR
+
+# Date - Pages - Hits - Bandwidth - Visits
+BEGIN_DAY 11
+20210801 2 2 56928 2
+20210802 10 54 46688504 8
+20210803 3 25 23280881 2
+20210804 5 5 126742 4
+20210805 7 7 225008 7
+20210806 6 28 23309345 3
+20210807 4 4 85392 3
+20210808 2 2 28464 1
+20210809 9 32 23718351 4
+20210810 4 4 85392 3
+20210811 4 4 56928 3
+END_DAY
+
+# Session range - Number of visits
+BEGIN_SESSION 2
+30s-2mn 1
+0s-30s 39
+END_SESSION
+
+# URL - Pages - Bandwidth - Entry - Exit
+# The 25 first Pages must be first (order not required for others)
+BEGIN_SIDER 2
+/ 51 1218556 40 37
+/vendor/fontawesome-free/webfonts/fa-solid-900.woff2 5 371280 0 3
+END_SIDER
