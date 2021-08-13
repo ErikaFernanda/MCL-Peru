@@ -1,4 +1,0 @@
-[03-Aug-2021 01:59:38 UTC] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/santaritaedu/public_html/pdf/src/Renderer.php on line 25
-[06-Aug-2021 08:45:11 UTC] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/santaritaedu/public_html/pdf/src/Renderer.php on line 25
-[06-Aug-2021 21:07:22 UTC] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/santaritaedu/public_html/pdf/src/Renderer.php on line 25
-[08-Aug-2021 11:28:39 UTC] PHP Fatal error:  Class 'Dompdf\Renderer\AbstractRenderer' not found in /home/santaritaedu/public_html/pdf/src/Renderer.php on line 25

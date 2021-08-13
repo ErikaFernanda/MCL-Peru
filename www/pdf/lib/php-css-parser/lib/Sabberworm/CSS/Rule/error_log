@@ -1,4 +1,0 @@
-[28-Jul-2021 12:50:43 UTC] PHP Fatal error:  Interface 'Sabberworm\CSS\Renderable' not found in /home/santaritaedu/public_html/pdf/lib/php-css-parser/lib/Sabberworm/CSS/Rule/Rule.php on line 14
-[05-Aug-2021 07:26:28 UTC] PHP Fatal error:  Interface 'Sabberworm\CSS\Renderable' not found in /home/santaritaedu/public_html/pdf/lib/php-css-parser/lib/Sabberworm/CSS/Rule/Rule.php on line 14
-[05-Aug-2021 20:55:12 UTC] PHP Fatal error:  Interface 'Sabberworm\CSS\Renderable' not found in /home/santaritaedu/public_html/pdf/lib/php-css-parser/lib/Sabberworm/CSS/Rule/Rule.php on line 14
-[13-Aug-2021 04:57:02 UTC] PHP Fatal error:  Interface 'Sabberworm\CSS\Renderable' not found in /home/santaritaedu/public_html/pdf/lib/php-css-parser/lib/Sabberworm/CSS/Rule/Rule.php on line 14

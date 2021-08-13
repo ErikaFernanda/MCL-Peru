@@ -1,4 +1,0 @@
-[29-Jul-2021 16:06:46 UTC] PHP Fatal error:  Class 'Dompdf\Exception' not found in /home/santaritaedu/public_html/pdf/src/Exception/ImageException.php on line 17
-[04-Aug-2021 14:45:49 UTC] PHP Fatal error:  Class 'Dompdf\Exception' not found in /home/santaritaedu/public_html/pdf/src/Exception/ImageException.php on line 17
-[06-Aug-2021 08:26:53 UTC] PHP Fatal error:  Class 'Dompdf\Exception' not found in /home/santaritaedu/public_html/pdf/src/Exception/ImageException.php on line 17
-[11-Aug-2021 21:22:39 UTC] PHP Fatal error:  Class 'Dompdf\Exception' not found in /home/santaritaedu/public_html/pdf/src/Exception/ImageException.php on line 17
